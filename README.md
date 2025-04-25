@@ -3,13 +3,13 @@
 
 ## Visão Geral
 
-Este projeto consiste em um script python que automatiza a movimentação de arquivos do NOC em formato `.xlsb`, transferindo - os diariamente às 06:00 da manhã de uma pasta de origem para uma pasta de destino. Os arquivos na pasta de destino são substituídos pelos novos arquivos movidos. Posteriormente, um processo de ETL captura os arquivos da pasta de destino, transformando os dados e os direcionando para uma base de dados.
+Este projeto consiste em um script python que automatiza a movimentação de arquivos em formato `.xlsb`, transferindo - os diariamente às 06:00 da manhã de uma pasta de origem para uma pasta de destino. Os arquivos na pasta de destino são substituídos pelos novos arquivos movidos. Posteriormente, um processo de ETL captura os arquivos da pasta de destino, transformando os dados e os direcionando para uma base de dados.
 
 #
 
 ## Objetivo
 
-Garantir que os arquivos do NOC sejam movidos de forma automatizada e programada, evitando erros e garantindo a atualização regular dos dados.
+Garantir que os arquivos sejam movidos de forma automatizada e programada, evitando erros e garantindo a atualização regular dos dados.
 
 #
 
